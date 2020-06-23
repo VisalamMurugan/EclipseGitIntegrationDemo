@@ -7,7 +7,7 @@ public class HelloWorld
 
 
 		System.out.println("Welcome to java ,base & Release master!!!");
-		System.out.println(Eclipse with Github Integration  Thank you!!!");
+		System.out.println("Eclipse with Github Integration  Thank you!!!");
 
 	}
 }
