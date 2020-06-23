@@ -5,9 +5,9 @@ public class HelloWorld
 {
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to java ,master  branch!!!");
+		System.out.println("Welcome to java ,base master!!!");
 
-		System.out.println(Eclipse with Github Integration -master Thank you!!!");
+		System.out.println(Eclipse with Github Integration  Thank you!!!");
 
 	}
 }
